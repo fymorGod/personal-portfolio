@@ -1,8 +1,9 @@
-# Login System - Authenticated with Google
+# Portfólio Person - Creating Personal Portfólio - Criando Portfólio Pessoal
 
-Este projeto tem por finalidade desenvolver a prática e a habilidade de trabalhar com os React Hooks e o conceito de Context
+Este projeto tem por finalidade desenvolver a prática e a habilidade de trabalhar com os React Hooks e o conceito de Context.
+Com o intuito de ajudar os futuros desenvolvedores, na construção de layouts com alta performance e usabilidade.
 
-<p align="center">Authenticated with Firebase</p>
+<p align="center">Personal Portfólio</p>
 <div align="start">
 <img src="https://user-images.githubusercontent.com/54417643/199106532-f6e24d54-c1ff-4b2a-8633-bf6132cc7da7.png"/>
 <img src="https://user-images.githubusercontent.com/54417643/199106689-0d0da0fb-ef91-4abb-8abb-109f5c5ae77c.png"/>
@@ -10,12 +11,6 @@ Este projeto tem por finalidade desenvolver a prática e a habilidade de trabalh
 <img src="https://user-images.githubusercontent.com/54417643/199106815-52f9857b-efd4-4628-b8f4-da1dd4489fca.png"/>
 <img src="https://user-images.githubusercontent.com/54417643/199106875-4a4bfaff-bab1-451d-8340-2e0bead7d82f.png"/>
 </div>
-
-<!-- ![submenu-personal-portfolio](https://user-images.githubusercontent.com/54417643/199106689-0d0da0fb-ef91-4abb-8abb-109f5c5ae77c.png)
-![projects](https://user-images.githubusercontent.com/54417643/199106749-a19da41d-9550-413d-bd73-09812e3d7a08.png)
-![formulario-personal](https://user-images.githubusercontent.com/54417643/199106815-52f9857b-efd4-4628-b8f4-da1dd4489fca.png)
-![footer-personal](https://user-images.githubusercontent.com/54417643/199106875-4a4bfaff-bab1-451d-8340-2e0bead7d82f.png)
- -->
 
 <!--ts-->
 * [Sobre](#Sobre)
@@ -26,6 +21,7 @@ Este projeto tem por finalidade desenvolver a prática e a habilidade de trabalh
 # Sobre
 <p>No início de carreira de todo dev, é de extrema immportância que o mesmo consiga ter em seu portfólio, um sistema de autenticação.
 Pensando nisso, este repositório tem por objetivo ajudar os desenvolvedores iniciantes em seus projetos futuros.
+Neste projeto, usando das boas práticas do CSS utilizando o react-bootstrap
 </p>
 
 # tabela-de-tecnologia
@@ -33,14 +29,16 @@ Pensando nisso, este repositório tem por objetivo ajudar os desenvolvedores ini
 - [x] Javascript
 - [x] ReactJs
 - [X] Firebase  
+- [X] React-Bootstrap  
 - [X] React Hooks  
+- [X] Form Hooks  
 
 # Instalação
 
 
 ```bash
 #Clone este repositório
-$ git clone <https://github.com/fymorGod/login-system>
+$ git clone <https://github.com/fymorGod/personal-portfolio>
 
 #Acesse a pasta do projeto no terminal/cmd
 $cd login-system
