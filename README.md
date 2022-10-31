@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# Login System - Authenticated with Google
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto tem por finalidade desenvolver a prática e a habilidade de trabalhar com os React Hooks e o conceito de Context
 
-## Available Scripts
+<p align="center">Authenticated with Firebase</p>
+<div align="start">
+<img src="https://user-images.githubusercontent.com/54417643/199106532-f6e24d54-c1ff-4b2a-8633-bf6132cc7da7.png"/>
+<img src="https://user-images.githubusercontent.com/54417643/199106689-0d0da0fb-ef91-4abb-8abb-109f5c5ae77c.png"/>
+<img src="https://user-images.githubusercontent.com/54417643/199106749-a19da41d-9550-413d-bd73-09812e3d7a08.png"/>
+<img src="https://user-images.githubusercontent.com/54417643/199106815-52f9857b-efd4-4628-b8f4-da1dd4489fca.png"/>
+<img src="https://user-images.githubusercontent.com/54417643/199106875-4a4bfaff-bab1-451d-8340-2e0bead7d82f.png"/>
+</div>
 
-In the project directory, you can run:
+<!-- ![submenu-personal-portfolio](https://user-images.githubusercontent.com/54417643/199106689-0d0da0fb-ef91-4abb-8abb-109f5c5ae77c.png)
+![projects](https://user-images.githubusercontent.com/54417643/199106749-a19da41d-9550-413d-bd73-09812e3d7a08.png)
+![formulario-personal](https://user-images.githubusercontent.com/54417643/199106815-52f9857b-efd4-4628-b8f4-da1dd4489fca.png)
+![footer-personal](https://user-images.githubusercontent.com/54417643/199106875-4a4bfaff-bab1-451d-8340-2e0bead7d82f.png)
+ -->
 
-### `npm start`
+<!--ts-->
+* [Sobre](#Sobre)
+* [Tabela de Tecnologias](#tabela-de-tecnologia)
+* [instalacao](#Instalação)
+<!--te--> 
+<!-- ![back](https://user-images.githubusercontent.com/54417643/197594876-eeda92e7-61e8-4b76-abee-6655faccc401.png) -->
+# Sobre
+<p>No início de carreira de todo dev, é de extrema immportância que o mesmo consiga ter em seu portfólio, um sistema de autenticação.
+Pensando nisso, este repositório tem por objetivo ajudar os desenvolvedores iniciantes em seus projetos futuros.
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# tabela-de-tecnologia
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [x] Javascript
+- [x] ReactJs
+- [X] Firebase  
+- [X] React Hooks  
 
-### `npm test`
+# Instalação
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+```bash
+#Clone este repositório
+$ git clone <https://github.com/fymorGod/login-system>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#Acesse a pasta do projeto no terminal/cmd
+$cd login-system
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#Após acessar a pasta do projeto, abra a mesma no terminal de sua preferência
+#Em seguida, digite o comando 
+$npm i
+#ou caso tenha o yarn instalado
+$yarn
